@@ -41,7 +41,8 @@ What is the output of the whoami command on the vulnerable Laravel application?
 root
 
 What is the output of the uname -r command on the vulnerable Laravel application?
-5.4.0-1029-aws
+5.15.0–1075-aws
 
 Is it a good practice to blindly use the eval() function in your code? (yea/nay)
 nay
+
