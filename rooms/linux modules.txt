@@ -26,7 +26,7 @@ What sequence is equivalent to selecting hexadecimal characters?
 :xdigit:
 
 Download the above given file, and use awk command  to print the following output:
-awk 'BEGIN{FS=" "; OFS=":"} {print $1,$4}' awk.txt
+awk 'BEGIN{FS=" "; OFS=":"} {print $1,$2}' awk.txt
 
 How will you make the output as following (there can be multiple; answer it using the above specified variables in BEGIN pattern):
 awk 'BEGIN{ORS=", "} {print $1}' awk.txt
@@ -111,3 +111,4 @@ reset
 
 Press F to pay respect
 F
+
