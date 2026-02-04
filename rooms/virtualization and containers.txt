@@ -32,7 +32,7 @@ What is the deployment name on the provided cluster?
 hello-tryhackme
 
 What port is exposed by the service in question 5?
-8080
+443
 
 How many replica sets are deployed on the provided cluster?
 1
@@ -42,3 +42,4 @@ hello-tryhackme-875767b84
 
 What command would be used to delete the deployment from question 5?
 kubectl delete deployment hello-tryhackme
+
